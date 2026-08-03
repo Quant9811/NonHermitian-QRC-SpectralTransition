@@ -28,7 +28,4 @@ Run the notebook from top to bottom to reproduce all figures and results reporte
 
 If you use this code, please cite the associated manuscript.
 
- Contact
-
-Chandrika Bhosge  
-IIIT Dharwad
+  
